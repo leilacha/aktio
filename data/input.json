@@ -84,38 +84,96 @@
     {
       "id": 1,
       "emission_factor_id": 1,
+      "area_id": 1,
       "quantity_1": 5500,
       "quantity_2": null
     },
     {
       "id": 2,
       "emission_factor_id": 2,
+      "area_id": 1,
       "quantity_1": 1000,
       "quantity_2": 6000
     },
     {
       "id": 3,
       "emission_factor_id": 3,
+      "area_id": 1,
       "quantity_1": 4,
       "quantity_2": 2000
     },
     {
       "id": 4,
       "emission_factor_id": 4,
-      "quantity_1": 5,
+      "area_id": 1,
+      "quantity_1": 20,
       "quantity_2": null
     },
     {
       "id": 5,
       "emission_factor_id": 5,
+      "area_id": 1,
       "quantity_1": 2,
       "quantity_2": null
     },
     {
       "id": 6,
       "emission_factor_id": 6,
+      "area_id": 1,
       "quantity_1": 1.4,
       "quantity_2": null
+    },
+    {
+      "id": 7,
+      "emission_factor_id": 1,
+      "area_id": 2,
+      "quantity_1": 3000,
+      "quantity_2": null
+    },
+    {
+      "id": 8,
+      "emission_factor_id": 2,
+      "area_id": 2,
+      "quantity_1": 500,
+      "quantity_2": 3000
+    },
+    {
+      "id": 9,
+      "emission_factor_id": 3,
+      "area_id": 2,
+      "quantity_1": 2,
+      "quantity_2": 500
+    },
+    {
+      "id": 10,
+      "emission_factor_id": 4,
+      "area_id": 2,
+      "quantity_1": 30,
+      "quantity_2": null
+    },
+    {
+      "id": 11,
+      "emission_factor_id": 5,
+      "area_id": 2,
+      "quantity_1": 0.3,
+      "quantity_2": null
+    },
+    {
+      "id": 12,
+      "emission_factor_id": 6,
+      "area_id": 2,
+      "quantity_1": 0.1,
+      "quantity_2": null
+    }
+  ],
+  "sites": [
+    {
+      "id": 1,
+      "name": "entrepôt - Limoges"
+    },
+   {
+      "id": 2,
+      "name": "entrepôt - Poitiers"
     }
   ]
 }
